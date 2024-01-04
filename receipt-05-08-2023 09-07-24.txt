@@ -1,0 +1,8 @@
+Customer: Rishi
+Order date: 08/05/2023
+Order time: 09:07
+Drinks:
+1 - Coke
+2 - Sprite
+3 - Fanta
+Total cost: $7.00

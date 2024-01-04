@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ISDS309_FinalProject_Vending/1.0.0": {
+        "runtime": {
+          "ISDS309_FinalProject_Vending.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ISDS309_FinalProject_Vending/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
